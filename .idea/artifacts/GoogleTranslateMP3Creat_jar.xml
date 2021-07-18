@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GoogleTranslateMP3Creat:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GoogleTranslateMP3Creat_jar</output-path>
+    <root id="archive" name="GoogleTranslateMP3Creat.jar">
+      <element id="module-output" name="GoogleTranslateMP3Creat" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java  araçlar/java kütüphane/commons-io-2.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

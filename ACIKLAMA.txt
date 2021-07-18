@@ -1,0 +1,5 @@
+"deutschen_wörter" txt dosyasinin her satirina .mp3 ses dosyasina cevirmek istediginiz 
+kelime veya cümleyi girini, kaydedin ve GoogleTranslateMp3Creat dosyasini cift tiklayarak 
+calistirin. .mp3 dosyalari Audios klasöründe olusturulacaktir. 
+
+(Not: sadece intrenet bagli iken ve bilgisayarinizda java yüklü olmasi halinde dönüstürme islemi yapabilirsiniz.)
